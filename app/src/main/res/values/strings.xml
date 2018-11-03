@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Electricity Bill Calculating System</string>
+    <string name="b_id">B-ID</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="view">View</string>
+    <string name="login">Login</string>
+    <string name="calculations">Calculations</string>
+
+
+</resources>
